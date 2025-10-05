@@ -1,0 +1,55 @@
+debounce
+• DFFlagActionStationDebounceInitialization → True
+• DFFlagDebounceJointDoubleAdd → True
+• DFFlagFixDebounceReset → True
+• DFIntActionStationDebounceTime → 2
+• DFIntOnDemandAdsProviderHttpDebounceTimeMs → 15000
+• DFIntSafetyServiceScreenshotAMCDebouncePeriodMilliseconds → 5000
+• DFIntSimTimestepMultiplierDebounceCount → 60
+• DFIntSimTouchDebounceEntryLimit → 512
+• FFlagCodeAssistDebounceBeforeLSP → False
+• FFlagDebounceConnectDisconnectButton → True
+• FFlagDebounceSignatureHelp → True
+• FFlagEnableOnDemandAdsProviderHttpDebounce → True
+• FFlagFixLoadMoreScrollDebounce → True
+• FFlagScriptEditorHoverTooltipBetterDebounce → True
+• FIntAICOInputCommentDebounceTimeMs → 300
+• FIntAICOInputDebounceTimeMs → 300
+• FIntAICOInputPreLspDebounceTimeMs → 0
+• FIntLuaAppSearchAutocompleteDebounceMs → 100
+
+decomp
+• DFFlagConvexDecompCompressionAnalytics681 → False
+• DFFlagDebugConvexDecompCompression → False
+• DFFlagDebugEnabledConvexDecompDebug → False
+• DFFlagFixTransparentMeshDecomps → False
+• DFFlagHttpApplyDecompressionMultiplier → True
+• DFFlagInternalExportAllowCSGDecomp2 → True
+• DFFlagPerformanceControlPlannerDecomposeComputePlanIntoSteps2 → True
+• DFFlagSimLDLDecompositionAllocateOrCrash → True
+• DFIntConvexDecompCompression → 2000
+• DFIntConvexDecompCompressionPrecision → 100
+• DFIntConvexDecompCompressionSelector → 0
+• DFIntConvexDecompCompressionTransformIdentity → 10000
+• DFIntConvexDecompCompressionZstd → 0
+• DFIntDebugConvexDecompMaxFrames → 1000
+• DFIntHttpDecompressionMultiplierHundredth → 152
+• DFIntMLCodeCompletionRequestReporterThrottlePercent → 10000
+• DFIntPhysicsDecompForceUpgradeVersion → 3
+• FFlagClientSideCompatibility → True
+• FFlagEditableMeshDebugDecompFix → True
+• FFlagUseDecomposedVPCForChargebacks → True
+
+nextgen
+• FFlagDebugNextGenRepAttributeRep → False
+• FFlagDebugNextGenReplicatorEnabledWriteCFrameColor → False
+• FFlagDebugNextGenRepUsePropBlacklist → False
+• FFlagEnableNextGenGamePassPurchase → True
+• FFlagNextGenReplicatorEnabledRead3 → True
+• FFlagNextGenReplicatorEnabledWrite4 → False
+• FFlagNextGenStudioOptOut → True
+
+hbe
+• DFIntHSRPublishBestEffortSkipSec → 60
+• FFlagFixExperienceLaunchBeginTimestamp → True
+• FIntBootstrapperLaunchBehaviorABTest → 2
