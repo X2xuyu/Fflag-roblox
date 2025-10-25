@@ -1,0 +1,16 @@
+{
+  "FIntSmoothMouseSpringFrequencyTenths": 100,
+  "FIntDefaultJitterN": 0,
+  "FIntActivatedCountTimerMSKeyboard": 0,
+  "FIntActivatedCountTimerMSMouse": 0,
+  "FIntCLI20390_2": 0,
+  "FFlagCoalesceInput": true,
+  "FFlagRobloxInputUsesRuntime": true,
+  "FFlagPreferredInput": true,
+  "FFlagFasterPreciseTime4": true,
+  "FFlagLuaAppLegacyInputSettingRefactor": true,
+  "FFlagLuaMenuPerfImprovements": true,
+  "FFlagSmoothInputOffset": true,
+  "FFlagStylingFasterTagProcessing": true,
+  "FFlagUserCameraControlLastInputTypeUpdate": false
+}

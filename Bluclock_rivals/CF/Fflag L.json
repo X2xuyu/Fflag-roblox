@@ -1,0 +1,15 @@
+{
+  "FFlagHumanoidStateUseRuntimeSyncPrims": true,
+  "FFlagKeyframeSequenceUseRuntimeSyncPrims": true,
+  "FFlagAnimationStreamSourceUseRuntimeSyncPrims": true,
+  "FFlagAnimationStreamTrackUseRuntimeSyncPrims": true,
+  "FFlagQuaternionPoseCorrection": true,
+  "DFIntS2PhysicsSenderRate": 250,
+  "DFFlagOptimizeNoCollisionPrimitiveInMidphaseCrash": true,
+  "DFFlagAnimatorAnywhere": true,
+  "DFFlagAnimatorPostProcessIK": true,
+  "FFlagAnimationLodIkEnabled": true,
+  "DFFlagEnableControlRigIkTargets": true,
+  "FFlagAnimatorAndADFRefactor": true,
+  "FFlagLiveAnimationUpdateSupport": true
+}
